@@ -6,6 +6,7 @@
 ## June
 ## July
 ## August
+[ETHIndia - Ethereum Hackathon](https://ethindia.co/) (**2-4 August**)
 ## September
 ## October
 ## November
